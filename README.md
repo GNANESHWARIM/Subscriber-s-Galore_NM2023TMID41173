@@ -2,4 +2,4 @@
 
 Demo video
 
-https://drive.google.com/file/d/1f9jV49IWPjTUqNsIvkQSQ-OpN_VGWXXW/view?usp=drivesdk
+https://drive.google.com/file/d/1f9jV49IWPjTUqNsIvkQSQ-OpN_VGWXXW/view?usp=share_link
